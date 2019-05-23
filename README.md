@@ -1,2 +1,2 @@
 # FondoMarinoApp
-Aplicativo movil en S.O Android basado en Java
+Aplicativo mobil en S.O Android basado en Java
